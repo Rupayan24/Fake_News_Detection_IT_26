@@ -32,4 +32,9 @@ The processed dataframe (`df`) uses a simplified schema for optimal training:
 *   **Class Balance**: Approximately 52% Fake / 48% True.
 *   **Evaluation Metrics**: Accuracy, Precision-Recall Curve, and F1-Score.
 
+## How to Run
+1. Clone the repo: git clone <repo-url>
+2. Install dependencies: pip install -r requirements.txt
+3. Open Fake_News_Detection_2.ipynb and run all cells.
+
 
