@@ -8,6 +8,7 @@ This project focuses on the binary classification of news articles into two cate
 
 ## 📊 Dataset Specifications
 The model is trained on a comprehensive dataset consisting of ~45,000 articles:
+*   **Dataset Link**: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 *   **True.csv**: Verified news articles, primarily from Reuters, characterized by neutral tone and formal datelines (e.g., "WASHINGTON (Reuters)").
 *   **Fake.csv**: Unverified articles often containing high-arousal emotional language, conspiracy-leaning narratives, and social media calls to action.
 
